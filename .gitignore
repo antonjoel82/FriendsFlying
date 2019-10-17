@@ -1,0 +1,12 @@
+# My virtual env
+/env
+
+# VSCode workspace settings
+/.vscode
+
+# Django
+*.log
+static_collected
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
